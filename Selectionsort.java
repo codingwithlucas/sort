@@ -25,6 +25,8 @@ public class Selectionsort {
 
             // Mostrando o vetor parcialmente ordenado depois de cada repetição.
             // Apenas para debug
+            // Showing the sorted vector after each loop.
+            // Debug only
             // System.out.println("\n\n----- " + (i + 1) + ". ordenação -----");
             // for (int l = 0; l < vetor.length; l++) {
             //     System.out.print(vetor[l] + ", ");
